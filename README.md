@@ -1,3 +1,3 @@
 # Site Scan Terminal Tool
 
-![Terminal Sample Display](//path//)
+![Terminal Sample Display](/photos/terminal-display/)
